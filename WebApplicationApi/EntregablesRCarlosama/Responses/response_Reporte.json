@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2022-06-26T17:29:49.0827684",
+    "nombre": "MARIANELA MONTALVO",
+    "numero": 478758,
+    "tipo": "CORRIENTE",
+    "saldoInicial": 100,
+    "estadoMovimiento": true,
+    "valor": -575,
+    "saldo": 1425
+  },
+  {
+    "fecha": "2022-06-26T17:33:02.463673",
+    "nombre": "MARIANELA MONTALVO",
+    "numero": 496825,
+    "tipo": "AHORROS",
+    "saldoInicial": 0,
+    "estadoMovimiento": true,
+    "valor": -540,
+    "saldo": 0
+  }
+]

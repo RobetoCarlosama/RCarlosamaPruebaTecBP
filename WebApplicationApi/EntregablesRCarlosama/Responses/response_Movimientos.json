@@ -1,0 +1,34 @@
+[
+  {
+    "numero": 478758,
+    "fecha": "2022-06-26T17:29:49.0827684",
+    "tipoMovimiento": false,
+    "valor": -575,
+    "saldo": 1425,
+    "estadoMovimiento": true
+  },
+  {
+    "numero": 225487,
+    "fecha": "2022-06-26T17:31:05.4427456",
+    "tipoMovimiento": true,
+    "valor": 600,
+    "saldo": 700,
+    "estadoMovimiento": true
+  },
+  {
+    "numero": 495878,
+    "fecha": "2022-06-26T17:31:53.6282266",
+    "tipoMovimiento": true,
+    "valor": 150,
+    "saldo": 150,
+    "estadoMovimiento": true
+  },
+  {
+    "numero": 496825,
+    "fecha": "2022-06-26T17:33:02.463673",
+    "tipoMovimiento": false,
+    "valor": -540,
+    "saldo": 0,
+    "estadoMovimiento": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "JOSE LEMA",
+    "genero": "MASCULINO",
+    "edad": 24,
+    "identificacion": "1003560396",
+    "direccion": "QUITO LLANO GRANDE",
+    "telefono": "0967969852"
+  },
+  {
+    "nombre": "MARIANELA MONTALVO",
+    "genero": "MASCULINO",
+    "edad": 24,
+    "identificacion": "1003560397",
+    "direccion": "AMAZONAS Y NNUU",
+    "telefono": "097548965"
+  },
+  {
+    "nombre": "JUAN OSORIO",
+    "genero": "MASCULINO",
+    "edad": 24,
+    "identificacion": "1003560398",
+    "direccion": "13 JUNIO Y EQUINOCCIAL",
+    "telefono": "098874587"
+  }
+]

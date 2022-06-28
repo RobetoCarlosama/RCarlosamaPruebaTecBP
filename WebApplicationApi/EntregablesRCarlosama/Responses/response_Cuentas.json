@@ -1,0 +1,44 @@
+[
+  {
+    "identificacion": "1003560395",
+    "numero": 478758,
+    "tipo": "AHORROS",
+    "saldoInicial": 2000,
+    "estadoCuenta": true
+  },
+  {
+    "identificacion": "1003560397",
+    "numero": 478758,
+    "tipo": "CORRIENTE",
+    "saldoInicial": 100,
+    "estadoCuenta": true
+  },
+  {
+    "identificacion": "1003560398",
+    "numero": 495878,
+    "tipo": "AHORROS",
+    "saldoInicial": 0,
+    "estadoCuenta": true
+  },
+  {
+    "identificacion": "1003560397",
+    "numero": 496825,
+    "tipo": "AHORROS",
+    "saldoInicial": 0,
+    "estadoCuenta": true
+  },
+  {
+    "identificacion": "1003560395",
+    "numero": 585545,
+    "tipo": "AHORROS",
+    "saldoInicial": 1000,
+    "estadoCuenta": true
+  },
+  {
+    "identificacion": "1003560399",
+    "numero": 258977,
+    "tipo": "AHORROS",
+    "saldoInicial": 0,
+    "estadoCuenta": true
+  }
+]

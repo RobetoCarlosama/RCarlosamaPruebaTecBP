@@ -1,0 +1,17 @@
+[
+  {
+    "identificacion": "1003560395",
+    "contrasenia": "1234",
+    "estadoCliente": true
+  },
+  {
+    "identificacion": "1003560397",
+    "contrasenia": "56789",
+    "estadoCliente": true
+  },
+  {
+    "identificacion": "1003560398",
+    "contrasenia": "1245",
+    "estadoCliente": true
+  }
+]
